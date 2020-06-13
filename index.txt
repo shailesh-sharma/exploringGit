@@ -1,4 +1,6 @@
 this is the text file that have been create by me to test and explore git.
-line 1
+line 1 editied by second user 
 line 2
 line 3
+line 4 by second user
+line 5 by second user
