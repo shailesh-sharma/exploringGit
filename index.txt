@@ -1,0 +1,4 @@
+this is the text file that have been create by me to test and explore git.
+line 1
+line 2
+line 3
